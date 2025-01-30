@@ -1,0 +1,14 @@
+{
+  "global": {
+    "server": ":10086",
+    "limit": 99
+  },
+  "users": [
+    {
+      "base_url": "https://mooc.scauzj.edu.cn",
+      "school_id": 0,
+      "username": "202425040113",
+      "password": "11"
+    }
+  ]
+}

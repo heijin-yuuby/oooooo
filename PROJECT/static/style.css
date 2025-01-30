@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('https://source.unsplash.com/1920x1080/?education,school') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: rgba(233, 157, 157, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(43, 57, 132, 0.1);
+}
+
+h1 {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+}
+
+label {
+    font-weight: bold;
+    color: #2a2626;
+}
+
+input, button {
+    border-radius: 5px;
+}
+
+button {
+    background-color: #356ca6;
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #3b78b9;
+}

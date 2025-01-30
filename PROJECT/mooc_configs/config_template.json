@@ -1,0 +1,15 @@
+{
+    "global": {
+        "server": ":20086",
+        "limit": 99
+    },
+    "users": [
+        {
+            "base_url": "https://zxshixun.scauzj.edu.cn",
+            "school_id": 0,
+            "username": "",
+            "password": ""
+        }
+    ]
+}
+EOL 

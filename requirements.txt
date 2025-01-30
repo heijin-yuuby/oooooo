@@ -1,0 +1,5 @@
+psutil
+flask
+requests
+flask_sqlalchemy
+python-alipay-sdk>=2.3.0 

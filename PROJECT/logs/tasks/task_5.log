@@ -1,0 +1,24 @@
+开始任务 5
+工作目录: /Users/lixixian/Desktop/WEB初定版本1加入付费系统_副本2/PROJECT
+可执行文件: /Users/lixixian/Desktop/WEB初定版本1加入付费系统_副本2/PROJECT/mooc_executable/aoaostar_mooc
+配置文件: /Users/lixixian/Desktop/WEB初定版本1加入付费系统_副本2/PROJECT/mooc_configs/config_5.json
+账号: 202425040113
+平台: https://mooc.scauzj.edu.cn
+配置内容:
+{
+  "global": {
+    "server": ":10086",
+    "limit": 99
+  },
+  "users": [
+    {
+      "base_url": "https://mooc.scauzj.edu.cn",
+      "school_id": 0,
+      "username": "202425040113",
+      "password": "LXXlxx214"
+    }
+  ]
+}
+Unable to find image 'mooc-automation:latest' locally
+docker: Error response from daemon: pull access denied for mooc-automation, repository does not exist or may require 'docker login': denied: requested access to the resource is denied.
+See 'docker run --help'.
